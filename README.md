@@ -131,6 +131,10 @@ In the final screen, provide the information about the Virtual networking and Pr
 
 At this stage, you will need to perform the installation of your operating system and you should be ready to go for the rest of your journey
 
+
+
+
+
 ## Result:
 Thus, the implementation to support CPU Virtualization KVM is installed in ubuntu
 successfully.
